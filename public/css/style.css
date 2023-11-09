@@ -27,6 +27,7 @@ body{
 }
 .show{
     background-color:#f0eeee !important ;
+    padding-inline: 20px;
 }
 .fa-compass {
     color: #fe424d;
